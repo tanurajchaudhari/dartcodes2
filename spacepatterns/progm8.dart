@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main(){
-  print("Enter the umber rows ");
+  print("Enter  umber rows ");
   int rows =int.parse(stdin.readLineSync()!);
   
   int val=2;
