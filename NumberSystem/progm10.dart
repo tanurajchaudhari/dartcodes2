@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main(){
-  print("Enter the number of number");
+  print("Enter  number of number");
   int N=int.parse(stdin.readLineSync()!);
   int a=0;int b=1;int sum;
   if(N==1){
